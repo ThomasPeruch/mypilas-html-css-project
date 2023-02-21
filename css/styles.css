@@ -7,3 +7,19 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
 }
+
+header {
+    height: 60px;
+    border-bottom: 1px solid #ccc;
+}
+
+header img {
+    margin-top: 12px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
